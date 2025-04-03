@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<!--
+I'm Janhvi! Currently working as a Sr SWE @ Currencyloud under Visa.
+- 🔭 I’m working on breaking up a Ruby monolith into modular and more scalable microservices using Spring Boot, Apache Kafka and MySQL   
 - 🌱 I’m currently learning GenAI, MLE
-- 👯 I’m looking to collaborate on Leetcode Study sessions and GenAI
--->
+- 👯 I’m looking to collaborate on Leetcode study sessions and GenAI
+- 📫 How to reach me: https://www.linkedin.com/in/janhvi--joshi/
 
 
 # 💻 Tech Stack:
